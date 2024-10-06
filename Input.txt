@@ -1,0 +1,4 @@
+Hadoop is a powerful tool for distributed processing
+Hadoop supports MapReduce for large scale data processing
+MapReduce is a programming model used in Hadoop
+Hadoop allows the processing of big data efficiently
