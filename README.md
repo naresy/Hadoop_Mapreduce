@@ -43,7 +43,7 @@
 <pre><code>export PATH=$PATH:$HADOOP_HOME/bin</code></pre>
 <p>Set the Hadoop configuration directory:</p>
 <pre><code>export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop</code></pre>
-  </li>'
+  </li>
 </ul>
 <p>For additional details, consult the <code>Hadoop</code> documentation or relevant resources.</p>
 </body>
